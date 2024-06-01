@@ -1,0 +1,11 @@
+﻿  BufferManager.cpp
+  FileManager.cpp
+  FileSystem.cpp
+  INode.cpp
+  Kernel.cpp
+  OpenFileManager.cpp
+  State.cpp
+  main.cpp
+  正在生成代码...
+C:\Users\15226\Desktop\OSCD\FileManager.cpp(548): warning C4715: “FileManager::NameI”: 不是所有的控件路径都返回值
+  OSCD.vcxproj -> C:\Users\15226\Desktop\OSCD\x64\Debug\OSCD.exe
